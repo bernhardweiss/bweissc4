@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="content_page" unload_date="2016-07-23 21:28:13">
+    <sys_portal action="delete_multiple" query="page=d49921cb37cb964037e4f41643990e4e">
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone_3col_content</dropzone>
+                <offset>0</offset>
+                <page display_value="Kreditorenfreigabe Support Page | SM">d49921cb37cb964037e4f41643990e4e</page>
+                <summary>Kreditorenfreigabe Iframe</summary>
+                <sys_created_by>bernhard.weiss</sys_created_by>
+                <sys_created_on>2016-05-02 08:11:48</sys_created_on>
+                <sys_id>019921cb37cb964037e4f41643990e67</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>bernhard.weiss</sys_updated_by>
+                <sys_updated_on>2016-05-02 08:11:48</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2016-05-02 10:11:48">019921cb37cb964037e4f41643990e67</portal_section>
+                        <sys_created_by>bernhard.weiss</sys_created_by>
+                        <sys_created_on>2016-05-02 08:11:48</sys_created_on>
+                        <sys_id>419921cb37cb964037e4f41643990e74</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bernhard.weiss</sys_updated_by>
+                        <sys_updated_on>2016-05-02 08:11:48</sys_updated_on>
+                        <value>709921cb37cb964037e4f41643990e65</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2016-05-02 10:11:48">019921cb37cb964037e4f41643990e67</portal_section>
+                        <sys_created_by>bernhard.weiss</sys_created_by>
+                        <sys_created_on>2016-05-02 08:11:48</sys_created_on>
+                        <sys_id>859921cb37cb964037e4f41643990e67</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bernhard.weiss</sys_updated_by>
+                        <sys_updated_on>2016-05-02 08:11:48</sys_updated_on>
+                        <value>b49921cb37cb964037e4f41643990e63</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2016-05-02 10:11:48">019921cb37cb964037e4f41643990e67</portal_section>
+                        <sys_created_by>bernhard.weiss</sys_created_by>
+                        <sys_created_on>2016-05-02 08:11:48</sys_created_on>
+                        <sys_id>899921cb37cb964037e4f41643990e74</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bernhard.weiss</sys_updated_by>
+                        <sys_updated_on>2016-05-02 08:11:48</sys_updated_on>
+                        <value>content_block_menu</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2016-05-02 10:11:48">019921cb37cb964037e4f41643990e67</portal_section>
+                        <sys_created_by>bernhard.weiss</sys_created_by>
+                        <sys_created_on>2016-05-02 08:11:48</sys_created_on>
+                        <sys_id>c19921cb37cb964037e4f41643990e74</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bernhard.weiss</sys_updated_by>
+                        <sys_updated_on>2016-05-02 08:11:48</sys_updated_on>
+                        <value>Kreditorenfreigabe Iframe</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2016-05-02 10:11:48">019921cb37cb964037e4f41643990e67</portal_section>
+                        <sys_created_by>bernhard.weiss</sys_created_by>
+                        <sys_created_on>2016-05-02 08:11:48</sys_created_on>
+                        <sys_id>cd9921cb37cb964037e4f41643990e73</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bernhard.weiss</sys_updated_by>
+                        <sys_updated_on>2016-05-02 08:11:48</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal>
+    <content_page action="INSERT_OR_UPDATE">
+        <content_site display_value="Service Management">a7161b58344355006f71c202665db07c</content_site>
+        <content_theme/>
+        <description>Kreditorenfreigabe Support Page</description>
+        <frame_buster>false</frame_buster>
+        <layout/>
+        <model_id/>
+        <model_table/>
+        <name>Kreditorenfreigabe Support Page</name>
+        <order/>
+        <parent_page display_value="Kreditorenfreigabe Home Page">d09921cb37cb964037e4f41643990e4d</parent_page>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>content_page</sys_class_name>
+        <sys_created_by>bernhard.weiss</sys_created_by>
+        <sys_created_on>2016-05-02 08:11:45</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d49921cb37cb964037e4f41643990e4e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Kreditorenfreigabe Support Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Kreditorenfreigabe" source="x_snc_kreditorenfr">5439218b37cb964037e4f41643990eb7</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Kreditorenfreigabe">5439218b37cb964037e4f41643990eb7</sys_scope>
+        <sys_update_name>content_page_d49921cb37cb964037e4f41643990e4e</sys_update_name>
+        <sys_updated_by>bernhard.weiss</sys_updated_by>
+        <sys_updated_on>2016-05-02 08:11:48</sys_updated_on>
+        <title>Kreditorenfreigabe Support Page | SM</title>
+        <url_suffix>kreditorenfreigabe_support</url_suffix>
+        <user/>
+        <view/>
+        <workflow_state>Published</workflow_state>
+    </content_page>
+</record_update>

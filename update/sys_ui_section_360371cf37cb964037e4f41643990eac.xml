@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Zahlung_mit_Einzahlungsschein" section_id="360371cf37cb964037e4f41643990eac" sys_domain="global" table="x_snc_kreditorenfreigabe_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_esr_nummer</element>
+            <position>0</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:55:13</sys_created_on>
+            <sys_id>858379cf37cb964037e4f41643990e9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Zahlung_mit_Einzahlungsschein" display_value="Zahlung_mit_Einzahlungsschein" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">360371cf37cb964037e4f41643990eac</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:55:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_esr_pruefziffer</element>
+            <position>1</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:55:13</sys_created_on>
+            <sys_id>c58379cf37cb964037e4f41643990e9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Zahlung_mit_Einzahlungsschein" display_value="Zahlung_mit_Einzahlungsschein" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">360371cf37cb964037e4f41643990eac</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:55:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:55:13</sys_created_on>
+            <sys_id>098379cf37cb964037e4f41643990e9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Zahlung_mit_Einzahlungsschein" display_value="Zahlung_mit_Einzahlungsschein" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">360371cf37cb964037e4f41643990eac</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:55:13</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_esr_teilnehmernummer</element>
+            <position>3</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:55:13</sys_created_on>
+            <sys_id>498379cf37cb964037e4f41643990e9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Zahlung_mit_Einzahlungsschein" display_value="Zahlung_mit_Einzahlungsschein" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">360371cf37cb964037e4f41643990eac</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:55:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_esr_belegart_code</element>
+            <position>4</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:55:13</sys_created_on>
+            <sys_id>898379cf37cb964037e4f41643990e9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Zahlung_mit_Einzahlungsschein" display_value="Zahlung_mit_Einzahlungsschein" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">360371cf37cb964037e4f41643990eac</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:55:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Zahlung_mit_Einzahlungsschein</caption>
+            <header>false</header>
+            <name>x_snc_kreditorenfreigabe_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:53:09</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>360371cf37cb964037e4f41643990eac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Zahlung_mit_Einzahlungsschein</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Kreditorenfreigabe" source="x_snc_kreditorenfr">5439218b37cb964037e4f41643990eb7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Kreditorenfreigabe">5439218b37cb964037e4f41643990eb7</sys_scope>
+            <sys_update_name>sys_ui_section_360371cf37cb964037e4f41643990eac</sys_update_name>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:53:09</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

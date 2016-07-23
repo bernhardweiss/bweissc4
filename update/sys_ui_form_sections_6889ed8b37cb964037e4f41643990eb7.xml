@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="6889ed8b37cb964037e4f41643990eb7" sys_domain="global" table="x_snc_kreditorenfreigabe_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-18 10:20:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c680a81cdbef9600aa13f37eaf9619f3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_kreditorenfreigabe_request" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">6889ed8b37cb964037e4f41643990eb7</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">2180a81cdbef9600aa13f37eaf9619ef</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-18 10:20:46</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:11:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f889ed8b37cb964037e4f41643990eb8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_kreditorenfreigabe_request" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">6889ed8b37cb964037e4f41643990eb7</sys_ui_form>
+            <sys_ui_section caption="Scheduling" display_value="Scheduling" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">3089ed8b37cb964037e4f41643990eb8</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:11:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:20:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>329b2d8b37cb964037e4f41643990e5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_kreditorenfreigabe_request" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">6889ed8b37cb964037e4f41643990eb7</sys_ui_form>
+            <sys_ui_section caption="Basisdaten" display_value="Basisdaten" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">7e9b2d8b37cb964037e4f41643990e5c</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:20:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:26:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3dec2d8b37cb964037e4f41643990ea5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_kreditorenfreigabe_request" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">6889ed8b37cb964037e4f41643990eb7</sys_ui_form>
+            <sys_ui_section caption="Einkäufer Identifikation" display_value="Einkäufer Identifikation" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">79ec2d8b37cb964037e4f41643990ea5</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:26:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:30:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65dded8b37cb964037e4f41643990e47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_kreditorenfreigabe_request" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">6889ed8b37cb964037e4f41643990eb7</sys_ui_form>
+            <sys_ui_section caption="Lieferanten_Identifikation" display_value="Lieferanten_Identifikation" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">91dded8b37cb964037e4f41643990e47</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:30:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:36:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>013fa94f37cb964037e4f41643990e96</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_kreditorenfreigabe_request" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">6889ed8b37cb964037e4f41643990eb7</sys_ui_form>
+            <sys_ui_section caption="Rechnungsadresse" display_value="Rechnungsadresse" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">4d3fa94f37cb964037e4f41643990e95</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:36:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:40:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8210b94f37cb964037e4f41643990e98</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_kreditorenfreigabe_request" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">6889ed8b37cb964037e4f41643990eb7</sys_ui_form>
+            <sys_ui_section caption="Lieferadresse" display_value="Lieferadresse" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">ce10b94f37cb964037e4f41643990e97</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:40:16</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:44:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b3117d0f37cb964037e4f41643990eef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_kreditorenfreigabe_request" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">6889ed8b37cb964037e4f41643990eb7</sys_ui_form>
+            <sys_ui_section caption="Lageradresse" display_value="Lageradresse" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">ff117d0f37cb964037e4f41643990eee</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:44:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>8</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:47:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4bc1b58f37cb964037e4f41643990ea7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_kreditorenfreigabe_request" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">6889ed8b37cb964037e4f41643990eb7</sys_ui_form>
+            <sys_ui_section caption="Rabatte_und_Zuschlaege" display_value="Rabatte_und_Zuschlaege" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">87c1b58f37cb964037e4f41643990ea7</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:47:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>9</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:48:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7512b14f37cb964037e4f41643990e50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_kreditorenfreigabe_request" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">6889ed8b37cb964037e4f41643990eb7</sys_ui_form>
+            <sys_ui_section caption="Zahlungsbedingungen" display_value="Zahlungsbedingungen" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">a112b14f37cb964037e4f41643990e50</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:48:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>10</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:51:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef82fd8f37cb964037e4f41643990ecf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_kreditorenfreigabe_request" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">6889ed8b37cb964037e4f41643990eb7</sys_ui_form>
+            <sys_ui_section caption="Zahlung_mit_Kreditkarten" display_value="Zahlung_mit_Kreditkarten" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">2f82fd8f37cb964037e4f41643990ecf</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:51:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>11</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:53:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c70371cf37cb964037e4f41643990eac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_kreditorenfreigabe_request" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">6889ed8b37cb964037e4f41643990eb7</sys_ui_form>
+            <sys_ui_section caption="Zahlung_mit_Einzahlungsschein" display_value="Zahlung_mit_Einzahlungsschein" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">360371cf37cb964037e4f41643990eac</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:53:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>12</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:56:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9db3f5cf37cb964037e4f41643990e03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_kreditorenfreigabe_request" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">6889ed8b37cb964037e4f41643990eb7</sys_ui_form>
+            <sys_ui_section caption="Zahlung_auf_Postkonto" display_value="Zahlung_auf_Postkonto" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">d9b3f5cf37cb964037e4f41643990e03</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:56:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>13</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:57:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>192479cf37cb964037e4f41643990e1b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_kreditorenfreigabe_request" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">6889ed8b37cb964037e4f41643990eb7</sys_ui_form>
+            <sys_ui_section caption="Zahlung_auf_Bankkonto" display_value="Zahlung_auf_Bankkonto" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">552479cf37cb964037e4f41643990e1b</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:57:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>14</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:59:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3094fd8f37cb964037e4f41643990e11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_kreditorenfreigabe_request" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">6889ed8b37cb964037e4f41643990eb7</sys_ui_form>
+            <sys_ui_section caption="Kontierungsinformationen" display_value="Kontierungsinformationen" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">7c94fd8f37cb964037e4f41643990e10</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:59:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_kreditorenfreigabe_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:11:29</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6889ed8b37cb964037e4f41643990eb7</sys_id>
+            <sys_mod_count>29</sys_mod_count>
+            <sys_name>x_snc_kreditorenfreigabe_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Kreditorenfreigabe" source="x_snc_kreditorenfr">5439218b37cb964037e4f41643990eb7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Kreditorenfreigabe">5439218b37cb964037e4f41643990eb7</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6889ed8b37cb964037e4f41643990eb7</sys_update_name>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-18 10:20:45</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

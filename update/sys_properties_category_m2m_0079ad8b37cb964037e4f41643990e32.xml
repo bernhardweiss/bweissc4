@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Kreditorenfreigabe">8879ad8b37cb964037e4f41643990e31</category>
+        <order>1</order>
+        <property display_value="x_snc_kreditorenfr.default.start.time" name="x_snc_kreditorenfr.default.start.time">c9596d8b37cb964037e4f41643990e58</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>bernhard.weiss</sys_created_by>
+        <sys_created_on>2016-05-02 08:11:11</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>0079ad8b37cb964037e4f41643990e32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_kreditorenfr.default.start.time.Kreditorenfreigabe</sys_name>
+        <sys_package display_value="Kreditorenfreigabe" source="x_snc_kreditorenfr">5439218b37cb964037e4f41643990eb7</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Kreditorenfreigabe">5439218b37cb964037e4f41643990eb7</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_0079ad8b37cb964037e4f41643990e32</sys_update_name>
+        <sys_updated_by>bernhard.weiss</sys_updated_by>
+        <sys_updated_on>2016-05-02 08:11:11</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>

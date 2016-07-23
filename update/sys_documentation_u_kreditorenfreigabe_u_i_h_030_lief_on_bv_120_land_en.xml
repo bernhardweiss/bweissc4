@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_i_h_030_lief_on_bv_120_land" label="I.H.030_Lieferanten_Identifikation/BV.120_Land" language="en" table="u_kreditorenfreigabe">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_i_h_030_lief_on_bv_120_land</element>
+            <help/>
+            <hint/>
+            <label>I.H.030_Lieferanten_Identifikation/BV.120_Land</label>
+            <language>en</language>
+            <name>u_kreditorenfreigabe</name>
+            <plural>I.H.030_Lieferanten_Identifikation/BV.120_Lands</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-03 10:52:11</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>9ce7179b37c3d64037e4f41643990ec2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>I.H.030_Lieferanten_Identifikation/BV.120_Land</sys_name>
+            <sys_package display_value="Kreditorenfreigabe" source="x_snc_kreditorenfr">5439218b37cb964037e4f41643990eb7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Kreditorenfreigabe">5439218b37cb964037e4f41643990eb7</sys_scope>
+            <sys_update_name>sys_documentation_u_kreditorenfreigabe_u_i_h_030_lief_on_bv_120_land_en</sys_update_name>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-03 10:52:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

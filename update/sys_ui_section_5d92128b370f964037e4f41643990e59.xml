@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="5d92128b370f964037e4f41643990e59" sys_domain="global" table="u_kreditorenfreigabe" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:10:57</sys_created_on>
+            <sys_id>1d929a8b370f964037e4f41643990e14</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kreditorenfreigabe" sys_domain="global" view="Default view">5d92128b370f964037e4f41643990e59</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:10:57</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bv_030_funkt__des_dokuments</element>
+            <position>1</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:10:57</sys_created_on>
+            <sys_id>5d929a8b370f964037e4f41643990e14</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kreditorenfreigabe" sys_domain="global" view="Default view">5d92128b370f964037e4f41643990e59</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:10:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bv_050_rechn_endkennzeichen</element>
+            <position>2</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:10:57</sys_created_on>
+            <sys_id>9d929a8b370f964037e4f41643990e14</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kreditorenfreigabe" sys_domain="global" view="Default view">5d92128b370f964037e4f41643990e59</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:10:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bv_060_beste_r_des_kaeufers</element>
+            <position>3</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:10:57</sys_created_on>
+            <sys_id>dd929a8b370f964037e4f41643990e14</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kreditorenfreigabe" sys_domain="global" view="Default view">5d92128b370f964037e4f41643990e59</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:10:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bv_070_beste_es_lieferanten</element>
+            <position>4</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:10:57</sys_created_on>
+            <sys_id>11929a8b370f964037e4f41643990e15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kreditorenfreigabe" sys_domain="global" view="Default view">5d92128b370f964037e4f41643990e59</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:10:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bv_120_liefe_istungsperiode</element>
+            <position>5</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:10:57</sys_created_on>
+            <sys_id>51929a8b370f964037e4f41643990e15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kreditorenfreigabe" sys_domain="global" view="Default view">5d92128b370f964037e4f41643990e59</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:10:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bv_010_rechnungsnummer</element>
+            <position>6</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:10:57</sys_created_on>
+            <sys_id>91929a8b370f964037e4f41643990e15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kreditorenfreigabe" sys_domain="global" view="Default view">5d92128b370f964037e4f41643990e59</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:10:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bv_020_rechnungsdatum</element>
+            <position>7</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:10:57</sys_created_on>
+            <sys_id>d1929a8b370f964037e4f41643990e15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kreditorenfreigabe" sys_domain="global" view="Default view">5d92128b370f964037e4f41643990e59</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:10:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bv_025_buchungsdatum</element>
+            <position>8</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:10:57</sys_created_on>
+            <sys_id>15929a8b370f964037e4f41643990e15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kreditorenfreigabe" sys_domain="global" view="Default view">5d92128b370f964037e4f41643990e59</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:10:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>9</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:10:57</sys_created_on>
+            <sys_id>55929a8b370f964037e4f41643990e15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kreditorenfreigabe" sys_domain="global" view="Default view">5d92128b370f964037e4f41643990e59</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:10:57</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bv_040_typ_des_dokuments</element>
+            <position>10</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:10:57</sys_created_on>
+            <sys_id>95929a8b370f964037e4f41643990e15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kreditorenfreigabe" sys_domain="global" view="Default view">5d92128b370f964037e4f41643990e59</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:10:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bv_065_rechnungsnummer</element>
+            <position>11</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:10:57</sys_created_on>
+            <sys_id>d5929a8b370f964037e4f41643990e15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kreditorenfreigabe" sys_domain="global" view="Default view">5d92128b370f964037e4f41643990e59</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:10:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bv_080_waehrung</element>
+            <position>12</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:10:57</sys_created_on>
+            <sys_id>19929a8b370f964037e4f41643990e15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kreditorenfreigabe" sys_domain="global" view="Default view">5d92128b370f964037e4f41643990e59</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:10:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bv_090_sprache</element>
+            <position>13</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:10:57</sys_created_on>
+            <sys_id>59929a8b370f964037e4f41643990e15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kreditorenfreigabe" sys_domain="global" view="Default view">5d92128b370f964037e4f41643990e59</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:10:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bv_095_absch_ng_ausfuehrung</element>
+            <position>14</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:10:57</sys_created_on>
+            <sys_id>99929a8b370f964037e4f41643990e15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kreditorenfreigabe" sys_domain="global" view="Default view">5d92128b370f964037e4f41643990e59</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:10:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bv_100_rechn_speriodeanfang</element>
+            <position>15</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:10:57</sys_created_on>
+            <sys_id>d9929a8b370f964037e4f41643990e15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kreditorenfreigabe" sys_domain="global" view="Default view">5d92128b370f964037e4f41643990e59</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:10:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bv_110_rechnungsperiodeende</element>
+            <position>16</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:10:57</sys_created_on>
+            <sys_id>1d929a8b370f964037e4f41643990e15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kreditorenfreigabe" sys_domain="global" view="Default view">5d92128b370f964037e4f41643990e59</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:10:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>17</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:10:57</sys_created_on>
+            <sys_id>5d929a8b370f964037e4f41643990e15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_kreditorenfreigabe" sys_domain="global" view="Default view">5d92128b370f964037e4f41643990e59</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:10:57</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>u_kreditorenfreigabe</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:10:57</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d92128b370f964037e4f41643990e59</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_kreditorenfreigabe</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Kreditorenfreigabe" source="x_snc_kreditorenfr">5439218b37cb964037e4f41643990eb7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Kreditorenfreigabe">5439218b37cb964037e4f41643990eb7</sys_scope>
+            <sys_update_name>sys_ui_section_5d92128b370f964037e4f41643990e59</sys_update_name>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:10:57</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

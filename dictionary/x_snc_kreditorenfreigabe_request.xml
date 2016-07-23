@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="sm_order" label="Kreditorenfreigabe Request" max_length="40" name="x_snc_kreditorenfreigabe_request" sizeclass="18" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Abschlussdatum" max_length="40" name="x_snc_kreditorenfr_abschlussdatum_der_lieferung_ausfuehrung" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Anlagen_Nummer" max_length="40" name="x_snc_kreditorenfr_anlagen_nummer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Rechnungspositionen" max_length="40" name="x_snc_kreditorenfr_anzahl_der_rechnungspositionen" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Auftrags_Nummer" max_length="40" name="x_snc_kreditorenfr_auftrags_nummer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Beguenstigter_Land" max_length="40" name="x_snc_kreditorenfr_beguenstigter_land" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Beguenstigter_Name1" max_length="40" name="x_snc_kreditorenfr_beguenstigter_name1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Beguenstigter_Name2" max_length="40" name="x_snc_kreditorenfr_beguenstigter_name2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Beguenstigter_PLZ" max_length="40" name="x_snc_kreditorenfr_beguenstigter_plz" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Beguenstigter_Stadt" max_length="40" name="x_snc_kreditorenfr_beguenstigter_stadt" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Beguenstigter_Strasse1" max_length="40" name="x_snc_kreditorenfr_beguenstigter_strasse1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Beguenstigter_Strasse2" max_length="40" name="x_snc_kreditorenfr_beguenstigter_strasse2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Beschreibung_des_Rabatts_Zuschlags" max_length="40" name="x_snc_kreditorenfr_beschreibung_des_rabatts_zuschlags" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Bestellnummer K&amp;#228;ufers" max_length="40" name="x_snc_kreditorenfr_bestellnummer_des_kaeufers" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Bestellnummer Lieferanten" max_length="40" name="x_snc_kreditorenfr_bestellnummer_des_lieferanten" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Betrag_des_Rabatts_Zuschlags" max_length="40" name="x_snc_kreditorenfr_betrag_des_rabatts_zuschlags" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Bezeichnung_des_Finanzinstituts" max_length="40" name="x_snc_kreditorenfr_bezeichnung_des_finanzinstituts" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Branch_Code_der_Bank" max_length="40" name="x_snc_kreditorenfr_branch_code_der_bank" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Buchungsdatum" max_length="40" name="x_snc_kreditorenfr_buchungsdatum" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email_Adresse_der_Kontaktperson" max_length="40" name="x_snc_kreditorenfr_email_adresse_der_kontaktperson" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ESR_Belegart_Code" max_length="40" name="x_snc_kreditorenfr_esr_belegart_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ESR_Nummer" max_length="40" name="x_snc_kreditorenfr_esr_nummer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ESR_Pruefziffer" max_length="40" name="x_snc_kreditorenfr_esr_pruefziffer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ESR_Teilnehmernummer" max_length="40" name="x_snc_kreditorenfr_esr_teilnehmernummer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Faxnummer_der_Kontaktperson" max_length="40" name="x_snc_kreditorenfr_faxnummer_der_kontaktperson" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Dokumentfunktion" max_length="40" name="x_snc_kreditorenfr_funktion_des_dokuments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Gebaeude_Nummer" max_length="40" name="x_snc_kreditorenfr_gebaeude_nummer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Gesamtbetrag exkl. MwSt+Ab/Zuschlag" max_length="40" name="x_snc_kreditorenfr_gesamtbetrag_der_rechnung_exkl_mwst_exkl_ab_zuschlag" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Gesamtbetrag exkl. MwSt+inkl.Ab/Zuschlag" max_length="40" name="x_snc_kreditorenfr_gesamtbetrag_der_rechnung_exkl_mwst_inkl_ab_zuschlag" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Gesamtbetrag inkl. MwSt.+Ab/Zuschlag" max_length="40" name="x_snc_kreditorenfr_gesamtbetrag_der_rechnung_inkl_mwst_inkl_ab_zuschlag" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Hinweis_zu_den_Zahlungsbedingungen" max_length="40" name="x_snc_kreditorenfr_hinweis_zu_den_zahlungsbedingungen" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="IBAN_Nummer" max_length="40" name="x_snc_kreditorenfr_iban_nummer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Identifikation_der_Kontaktperson" max_length="40" name="x_snc_kreditorenfr_identifikation_der_kontaktperson" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Identifikation_fuer_Rabatt_bzw_Zuschlag" max_length="40" name="x_snc_kreditorenfr_identifikation_fuer_rabatt_bzw_zuschlag" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Karten_Art" max_length="40" name="x_snc_kreditorenfr_karten_art" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Karten_Gueltigkeitsdauer" max_length="40" name="x_snc_kreditorenfr_karten_gueltigkeitsdauer" type="string"/>
+        <element attributes="no_sort=true,no_audit=true" label="Karten_Nummer" max_length="65536" name="x_snc_kreditorenfr_karten_nummer" type="glide_encrypted"/>
+        <element attributes="no_sort=true,no_audit=true" label="Karten_Referenz" max_length="65536" name="x_snc_kreditorenfr_karten_referenz" type="glide_encrypted"/>
+        <element attributes="edge_encryption_enabled=true" label="Kontaktperson" max_length="40" name="x_snc_kreditorenfr_kontaktperson" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Kontonummer" max_length="40" name="x_snc_kreditorenfr_kontonummer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Kostenart" max_length="40" name="x_snc_kreditorenfr_kostenart" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Kostenkonto" max_length="40" name="x_snc_kreditorenfr_kostenkonto" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Kostenstelle" max_length="40" name="x_snc_kreditorenfr_kostenstelle" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Land" max_length="40" name="x_snc_kreditorenfr_land" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Land_der_Zweigstelle" max_length="40" name="x_snc_kreditorenfr_land_der_zweigstelle" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Liefer Dienstleistungsperiode" max_length="40" name="x_snc_kreditorenfr_liefer_dienstleistungsperiode" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name1" max_length="40" name="x_snc_kreditorenfr_name1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name2" max_length="40" name="x_snc_kreditorenfr_name2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name3" max_length="40" name="x_snc_kreditorenfr_name3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name_auf_der_Karte" max_length="40" name="x_snc_kreditorenfr_name_auf_der_karte" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name_der_Zweigstelle" max_length="40" name="x_snc_kreditorenfr_name_der_zweigstelle" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name_des_Kontoinhabers" max_length="40" name="x_snc_kreditorenfr_name_des_kontoinhabers" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="K&amp;#228;ufer-Nr. beim K&amp;#228;ufer" max_length="40" name="x_snc_kreditorenfr_nr_kaeufer_beim_kaeufer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="K&amp;#228;ufer-Nr. beim Lieferanten" max_length="40" name="x_snc_kreditorenfr_nr_kaeufer_beim_lieferanten" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="K&amp;#228;ufer-Nr. bei ETS" max_length="40" name="x_snc_kreditorenfr_nr_kaeufer_bei_ets" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nr_Lieferant_beim_Kaeufer" max_length="40" name="x_snc_kreditorenfr_nr_lieferant_beim_kaeufer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nr_Lieferant_beim_Lieferanten" max_length="40" name="x_snc_kreditorenfr_nr_lieferant_beim_lieferanten" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nr_Lieferant_bei_ETS" max_length="40" name="x_snc_kreditorenfr_nr_lieferant_bei_ets" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nr_Organisation_beim_Kaeufer" max_length="40" name="x_snc_kreditorenfr_nr_organisation_beim_kaeufer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nr_Organisation_beim_Lieferanten" max_length="40" name="x_snc_kreditorenfr_nr_organisation_beim_lieferanten" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nr_Organisation_bei_ETS" max_length="40" name="x_snc_kreditorenfr_nr_organisation_bei_ets" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organisations_Einheit" max_length="40" name="x_snc_kreditorenfr_organisations_einheit" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ort_der_Zweigstelle" max_length="40" name="x_snc_kreditorenfr_ort_der_zweigstelle" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="PLZ" max_length="40" name="x_snc_kreditorenfr_plz" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Postfach" max_length="40" name="x_snc_kreditorenfr_postfach" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Postkonto_Nummer" max_length="40" name="x_snc_kreditorenfr_postkonto_nummer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Projekt_Nummer" max_length="40" name="x_snc_kreditorenfr_projekt_nummer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Rechnungsdatum" max_length="40" name="x_snc_kreditorenfr_rechnungsdatum" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Rechnungsnummer" max_length="40" name="x_snc_kreditorenfr_rechnungsnummer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Rechnungs Periode Anfang" max_length="40" name="x_snc_kreditorenfr_rechnungsperiodeanfang" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Rechnungs Periode Ende" max_length="40" name="x_snc_kreditorenfr_rechnungsperiodeende" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Rg.-Endkennzeichen" max_length="40" name="x_snc_kreditorenfr_rechnungs_endkennzeichen" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Skonto_Betrag" max_length="40" name="x_snc_kreditorenfr_skonto_betrag" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Skonto_Gueltigkeit_in_Tagen_ab_Rechnungs_Datum" max_length="40" name="x_snc_kreditorenfr_skonto_gueltigkeit_in_tagen_ab_rechnungs_datum" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Skonto_Gueltigkeit_mit_Datum" max_length="40" name="x_snc_kreditorenfr_skonto_gueltigkeit_mit_datum" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Skonto_in_Prozent" max_length="40" name="x_snc_kreditorenfr_skonto_in_prozent" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sprache" max_length="40" name="x_snc_kreditorenfr_sprache" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Stadt" max_length="40" name="x_snc_kreditorenfr_stadt" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Steuerbetrag" max_length="40" name="x_snc_kreditorenfr_steuerbetrag" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Strasse" max_length="40" name="x_snc_kreditorenfr_strasse" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Telefonnummer_der_Kontaktperso" max_length="40" name="x_snc_kreditorenfr_telefonnummer_der_kontaktperso" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Telefonnummer_der_Kontaktperson" max_length="40" name="x_snc_kreditorenfr_telefonnummer_der_kontaktperson" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Typ der Handelsplatz ID" max_length="40" name="x_snc_kreditorenfr_typ_der_handelsplatz_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Dokumenttyp" max_length="40" name="x_snc_kreditorenfr_typ_des_dokuments" type="string"/>
+        <element label="Vertrag - Links" max_length="1024" name="x_snc_kreditorenfr_u_url_1" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="W&amp;#228;hrung" max_length="40" name="x_snc_kreditorenfr_waehrung" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Waehrung_des_Rabatts_Zuschlags" max_length="40" name="x_snc_kreditorenfr_waehrung_des_rabatts_zuschlags" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Waehrung_des_Skonto_Betrags" max_length="40" name="x_snc_kreditorenfr_waehrung_des_skonto_betrags" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="W&amp;#228;hrung Steuerbetrag" max_length="40" name="x_snc_kreditorenfr_waehrung_des_steuerbetrags" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="W&amp;#228;hrung Gesamtbetrag exkl. MwSt+Ab/Zuschlag" max_length="40" name="x_snc_kreditorenfr_waehrung_gesamtbetrag_der_rechnung_exkl_mwst_exkl_ab_zuschlag" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="W&amp;#228;hrung Gesamtbetrag exkl. MwSt+inkl.Ab/Zuschlag" max_length="40" name="x_snc_kreditorenfr_waehrung_gesamtbetrag_der_rechnung_exkl_mwst_inkl_ab_zuschlag" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="W&amp;#228;hrung Gesamtbetrag inkl. MwSt.+Ab/Zuschlag" max_length="40" name="x_snc_kreditorenfr_waehrung_gesamtbetrag_der_rechnung_inkl_mwst_inkl_ab_zuschlag" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Zahlungsbedingungen" max_length="40" name="x_snc_kreditorenfr_zahlungsbedingungen" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Zahlungsbedingungen_Zusatzwert" max_length="40" name="x_snc_kreditorenfr_zahlungsbedingungen_zusatzwert" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Zusatz_zur_Strasse1" max_length="40" name="x_snc_kreditorenfr_zusatz_zur_strasse1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Zusatz_zur_Strasse2" max_length="40" name="x_snc_kreditorenfr_zusatz_zur_strasse2" type="string"/>
+    </element>
+</database>

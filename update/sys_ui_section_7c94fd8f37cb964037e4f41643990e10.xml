@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Kontierungsinformationen" section_id="7c94fd8f37cb964037e4f41643990e10" sys_domain="global" table="x_snc_kreditorenfreigabe_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_kostenstelle</element>
+            <position>0</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 09:01:38</sys_created_on>
+            <sys_id>9ff47503370f964037e4f41643990ead</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Kontierungsinformationen" display_value="Kontierungsinformationen" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">7c94fd8f37cb964037e4f41643990e10</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 09:01:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_kostenart</element>
+            <position>1</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 09:01:38</sys_created_on>
+            <sys_id>dff47503370f964037e4f41643990ead</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Kontierungsinformationen" display_value="Kontierungsinformationen" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">7c94fd8f37cb964037e4f41643990e10</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 09:01:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_kostenkonto</element>
+            <position>2</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 09:01:38</sys_created_on>
+            <sys_id>13f47503370f964037e4f41643990eae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Kontierungsinformationen" display_value="Kontierungsinformationen" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">7c94fd8f37cb964037e4f41643990e10</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 09:01:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_gebaeude_nummer</element>
+            <position>3</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 09:01:38</sys_created_on>
+            <sys_id>53f47503370f964037e4f41643990eae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Kontierungsinformationen" display_value="Kontierungsinformationen" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">7c94fd8f37cb964037e4f41643990e10</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 09:01:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_anlagen_nummer</element>
+            <position>4</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 09:01:38</sys_created_on>
+            <sys_id>93f47503370f964037e4f41643990eae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Kontierungsinformationen" display_value="Kontierungsinformationen" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">7c94fd8f37cb964037e4f41643990e10</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 09:01:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_auftrags_nummer</element>
+            <position>5</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 09:01:38</sys_created_on>
+            <sys_id>d3f47503370f964037e4f41643990eae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Kontierungsinformationen" display_value="Kontierungsinformationen" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">7c94fd8f37cb964037e4f41643990e10</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 09:01:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_projekt_nummer</element>
+            <position>6</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 09:01:38</sys_created_on>
+            <sys_id>17f47503370f964037e4f41643990eae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Kontierungsinformationen" display_value="Kontierungsinformationen" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">7c94fd8f37cb964037e4f41643990e10</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 09:01:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_organisations_einheit</element>
+            <position>7</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 09:01:38</sys_created_on>
+            <sys_id>57f47503370f964037e4f41643990eae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Kontierungsinformationen" display_value="Kontierungsinformationen" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">7c94fd8f37cb964037e4f41643990e10</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 09:01:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Kontierungsinformationen</caption>
+            <header>false</header>
+            <name>x_snc_kreditorenfreigabe_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:59:50</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c94fd8f37cb964037e4f41643990e10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Kontierungsinformationen</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Kreditorenfreigabe" source="x_snc_kreditorenfr">5439218b37cb964037e4f41643990eb7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Kreditorenfreigabe">5439218b37cb964037e4f41643990eb7</sys_scope>
+            <sys_update_name>sys_ui_section_7c94fd8f37cb964037e4f41643990e10</sys_update_name>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:59:50</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_notification_rule">
+    <sm_notification_rule action="INSERT_OR_UPDATE">
+        <configuration display_value="Kreditorenfreigabe">df8921cb37cb964037e4f41643990e1b</configuration>
+        <field>state</field>
+        <notif_group>${assignment_group}</notif_group>
+        <notif_user>${assigned_to}</notif_user>
+        <sys_class_name>sm_notification_rule</sys_class_name>
+        <sys_created_by>bernhard.weiss</sys_created_by>
+        <sys_created_on>2016-05-03 14:03:05</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>64938c2fdb031200aa13f37eaf96195f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Kreditorenfreigabe" source="x_snc_kreditorenfr">5439218b37cb964037e4f41643990eb7</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Kreditorenfreigabe">5439218b37cb964037e4f41643990eb7</sys_scope>
+        <sys_update_name>sm_notification_rule_64938c2fdb031200aa13f37eaf96195f</sys_update_name>
+        <sys_updated_by>bernhard.weiss</sys_updated_by>
+        <sys_updated_on>2016-05-03 14:03:05</sys_updated_on>
+        <table>x_snc_kreditorenfreigabe_request</table>
+    </sm_notification_rule>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_i_h_140_mwst_es_einkaeufer0" label="I.H.140_MwSt._Informationen/BV.030_Eingetragener_Name_des_Einkaeufers" language="en" table="u_kreditorenfreigabe_v1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_i_h_140_mwst_es_einkaeufer0</element>
+            <help/>
+            <hint/>
+            <label>I.H.140_MwSt._Informationen/BV.030_Eingetragener_Name_des_Einkaeufers</label>
+            <language>en</language>
+            <name>u_kreditorenfreigabe_v1</name>
+            <plural>I.H.140_MwSt._Informationen/BV.030_Eingetragener_Name_des_Einkaeufers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:18:22</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>424416cb370f964037e4f41643990edf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>I.H.140_MwSt._Informationen/BV.030_Eingetragener_Name_des_Einkaeufers</sys_name>
+            <sys_package display_value="Kreditorenfreigabe" source="x_snc_kreditorenfr">5439218b37cb964037e4f41643990eb7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Kreditorenfreigabe">5439218b37cb964037e4f41643990eb7</sys_scope>
+            <sys_update_name>sys_documentation_u_kreditorenfreigabe_v1_u_i_h_140_mwst_es_einkaeufer0_en</sys_update_name>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:18:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

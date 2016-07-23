@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_i_h_050_lief_e_bv_110_stadt" label="I.H.050_Lieferadresse/BV.110_Stadt" language="en" table="u_kreditorenfreigabe_v1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_i_h_050_lief_e_bv_110_stadt</element>
+            <help/>
+            <hint/>
+            <label>I.H.050_Lieferadresse/BV.110_Stadt</label>
+            <language>en</language>
+            <name>u_kreditorenfreigabe_v1</name>
+            <plural>I.H.050_Lieferadresse/BV.110_Stadts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 11:18:23</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>d24416cb370f964037e4f41643990ee9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>I.H.050_Lieferadresse/BV.110_Stadt</sys_name>
+            <sys_package display_value="Kreditorenfreigabe" source="x_snc_kreditorenfr">5439218b37cb964037e4f41643990eb7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Kreditorenfreigabe">5439218b37cb964037e4f41643990eb7</sys_scope>
+            <sys_update_name>sys_documentation_u_kreditorenfreigabe_v1_u_i_h_050_lief_e_bv_110_stadt_en</sys_update_name>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 11:18:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

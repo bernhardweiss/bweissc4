@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Rabatte_und_Zuschlaege" section_id="87c1b58f37cb964037e4f41643990ea7" sys_domain="global" table="x_snc_kreditorenfreigabe_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_identifikation_fuer_rabatt_bzw_zuschlag</element>
+            <position>0</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:48:38</sys_created_on>
+            <sys_id>b8023d8f37cb964037e4f41643990e31</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Rabatte_und_Zuschlaege" display_value="Rabatte_und_Zuschlaege" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">87c1b58f37cb964037e4f41643990ea7</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:48:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_beschreibung_des_rabatts_zuschlags</element>
+            <position>1</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:48:38</sys_created_on>
+            <sys_id>f8023d8f37cb964037e4f41643990e31</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Rabatte_und_Zuschlaege" display_value="Rabatte_und_Zuschlaege" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">87c1b58f37cb964037e4f41643990ea7</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:48:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_betrag_des_rabatts_zuschlags</element>
+            <position>2</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:48:38</sys_created_on>
+            <sys_id>3c023d8f37cb964037e4f41643990e31</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Rabatte_und_Zuschlaege" display_value="Rabatte_und_Zuschlaege" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">87c1b58f37cb964037e4f41643990ea7</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:48:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_waehrung_des_rabatts_zuschlags</element>
+            <position>3</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:48:38</sys_created_on>
+            <sys_id>7c023d8f37cb964037e4f41643990e31</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Rabatte_und_Zuschlaege" display_value="Rabatte_und_Zuschlaege" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">87c1b58f37cb964037e4f41643990ea7</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:48:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Rabatte_und_Zuschlaege</caption>
+            <header>false</header>
+            <name>x_snc_kreditorenfreigabe_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:47:42</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87c1b58f37cb964037e4f41643990ea7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Rabatte_und_Zuschlaege</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Kreditorenfreigabe" source="x_snc_kreditorenfr">5439218b37cb964037e4f41643990eb7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Kreditorenfreigabe">5439218b37cb964037e4f41643990eb7</sys_scope>
+            <sys_update_name>sys_ui_section_87c1b58f37cb964037e4f41643990ea7</sys_update_name>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:47:42</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

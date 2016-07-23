@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_bv_080_zusatz_zur_strasse1" label="BV.080_Zusatz_zur_Strasse1" language="en" table="u_kreditorenfreigabe_v1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_bv_080_zusatz_zur_strasse1</element>
+            <help/>
+            <hint/>
+            <label>BV.080_Zusatz_zur_Strasse1</label>
+            <language>en</language>
+            <name>u_kreditorenfreigabe_v1</name>
+            <plural>BV.080_Zusatz_zur_Strasse1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-03 09:23:52</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>eea307d337c3d64037e4f41643990e5b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>BV.080_Zusatz_zur_Strasse1</sys_name>
+            <sys_package display_value="Kreditorenfreigabe" source="x_snc_kreditorenfr">5439218b37cb964037e4f41643990eb7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Kreditorenfreigabe">5439218b37cb964037e4f41643990eb7</sys_scope>
+            <sys_update_name>sys_documentation_u_kreditorenfreigabe_v1_u_bv_080_zusatz_zur_strasse1_en</sys_update_name>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-03 09:23:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

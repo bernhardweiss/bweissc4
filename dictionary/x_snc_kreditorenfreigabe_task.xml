@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="sm_task" label="Kreditorenfreigabe Task" max_length="40" name="x_snc_kreditorenfreigabe_task" type="collection"/>
+</database>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Zahlungsbedingungen" section_id="a112b14f37cb964037e4f41643990e50" sys_domain="global" table="x_snc_kreditorenfreigabe_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_zahlungsbedingungen</element>
+            <position>0</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:50:38</sys_created_on>
+            <sys_id>067231cf37cb964037e4f41643990e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Zahlungsbedingungen" display_value="Zahlungsbedingungen" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">a112b14f37cb964037e4f41643990e50</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:50:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_zahlungsbedingungen_zusatzwert</element>
+            <position>1</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:50:38</sys_created_on>
+            <sys_id>467231cf37cb964037e4f41643990e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Zahlungsbedingungen" display_value="Zahlungsbedingungen" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">a112b14f37cb964037e4f41643990e50</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:50:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_skonto_in_prozent</element>
+            <position>2</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:50:38</sys_created_on>
+            <sys_id>867231cf37cb964037e4f41643990e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Zahlungsbedingungen" display_value="Zahlungsbedingungen" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">a112b14f37cb964037e4f41643990e50</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:50:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_skonto_betrag</element>
+            <position>3</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:50:38</sys_created_on>
+            <sys_id>c67231cf37cb964037e4f41643990e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Zahlungsbedingungen" display_value="Zahlungsbedingungen" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">a112b14f37cb964037e4f41643990e50</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:50:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_waehrung_des_skonto_betrags</element>
+            <position>4</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:50:38</sys_created_on>
+            <sys_id>0a7231cf37cb964037e4f41643990e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Zahlungsbedingungen" display_value="Zahlungsbedingungen" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">a112b14f37cb964037e4f41643990e50</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:50:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_skonto_gueltigkeit_in_tagen_ab_rechnungs_datum</element>
+            <position>5</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:50:38</sys_created_on>
+            <sys_id>4a7231cf37cb964037e4f41643990e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Zahlungsbedingungen" display_value="Zahlungsbedingungen" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">a112b14f37cb964037e4f41643990e50</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:50:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_skonto_gueltigkeit_mit_datum</element>
+            <position>6</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:50:38</sys_created_on>
+            <sys_id>8a7231cf37cb964037e4f41643990e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Zahlungsbedingungen" display_value="Zahlungsbedingungen" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">a112b14f37cb964037e4f41643990e50</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:50:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_kreditorenfr_hinweis_zu_den_zahlungsbedingungen</element>
+            <position>7</position>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:50:38</sys_created_on>
+            <sys_id>ca7231cf37cb964037e4f41643990e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Zahlungsbedingungen" display_value="Zahlungsbedingungen" name="x_snc_kreditorenfreigabe_request" sys_domain="global" view="Default view">a112b14f37cb964037e4f41643990e50</sys_ui_section>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:50:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Zahlungsbedingungen</caption>
+            <header>false</header>
+            <name>x_snc_kreditorenfreigabe_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>bernhard.weiss</sys_created_by>
+            <sys_created_on>2016-05-02 08:48:58</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a112b14f37cb964037e4f41643990e50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Zahlungsbedingungen</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Kreditorenfreigabe" source="x_snc_kreditorenfr">5439218b37cb964037e4f41643990eb7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Kreditorenfreigabe">5439218b37cb964037e4f41643990eb7</sys_scope>
+            <sys_update_name>sys_ui_section_a112b14f37cb964037e4f41643990e50</sys_update_name>
+            <sys_updated_by>bernhard.weiss</sys_updated_by>
+            <sys_updated_on>2016-05-02 08:48:58</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
